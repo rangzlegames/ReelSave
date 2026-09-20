@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reelsave-idls.onrender.com/sitemap.xml
